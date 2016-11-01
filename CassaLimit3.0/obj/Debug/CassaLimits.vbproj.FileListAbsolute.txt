@@ -1,0 +1,45 @@
+C:\Users\Владимир\Dropbox\WFapp2\Задача 4 Drag and Drop Chart\DragAndDrop\CassaLimits\bin\Debug\CassaLimits.exe.config
+C:\Users\Владимир\Dropbox\WFapp2\Задача 4 Drag and Drop Chart\DragAndDrop\CassaLimits\bin\Debug\CassaLimits.exe
+C:\Users\Владимир\Dropbox\WFapp2\Задача 4 Drag and Drop Chart\DragAndDrop\CassaLimits\bin\Debug\CassaLimits.pdb
+C:\Users\Владимир\Dropbox\WFapp2\Задача 4 Drag and Drop Chart\DragAndDrop\CassaLimits\bin\Debug\CassaLimits.xml
+C:\Users\Владимир\Dropbox\WFapp2\Задача 4 Drag and Drop Chart\DragAndDrop\CassaLimits\obj\Debug\CassaLimits.vbprojResolveAssemblyReference.cache
+C:\Users\Владимир\Dropbox\WFapp2\Задача 4 Drag and Drop Chart\DragAndDrop\CassaLimits\obj\Debug\CassaLimits.Form1.resources
+C:\Users\Владимир\Dropbox\WFapp2\Задача 4 Drag and Drop Chart\DragAndDrop\CassaLimits\obj\Debug\CassaLimits.Resources.resources
+C:\Users\Владимир\Dropbox\WFapp2\Задача 4 Drag and Drop Chart\DragAndDrop\CassaLimits\obj\Debug\CassaLimits.vbproj.GenerateResource.Cache
+C:\Users\Владимир\Dropbox\WFapp2\Задача 4 Drag and Drop Chart\DragAndDrop\CassaLimits\obj\Debug\CassaLimits.exe
+C:\Users\Владимир\Dropbox\WFapp2\Задача 4 Drag and Drop Chart\DragAndDrop\CassaLimits\obj\Debug\CassaLimits.xml
+C:\Users\Владимир\Dropbox\WFapp2\Задача 4 Drag and Drop Chart\DragAndDrop\CassaLimits\obj\Debug\CassaLimits.pdb
+C:\Users\Владимир\Desktop\CassaLimits\bin\Debug\CassaLimits.exe.config
+C:\Users\Владимир\Desktop\CassaLimits\obj\Debug\CassaLimits.exe
+C:\Users\Владимир\Desktop\CassaLimits\obj\Debug\CassaLimits.xml
+C:\Users\Владимир\Desktop\CassaLimits\obj\Debug\CassaLimits.pdb
+C:\Users\Владимир\Desktop\CassaLimits\bin\Debug\CassaLimits.exe
+C:\Users\Владимир\Desktop\CassaLimits\bin\Debug\CassaLimits.pdb
+C:\Users\Владимир\Desktop\CassaLimits\bin\Debug\CassaLimits.xml
+C:\Users\Владимир\Desktop\CassaLimits\obj\Debug\CassaLimits.vbprojResolveAssemblyReference.cache
+C:\Users\Владимир\Desktop\CassaLimits\obj\Debug\CassaLimits.CassaLimit.resources
+C:\Users\Владимир\Desktop\CassaLimits\obj\Debug\CassaLimits.Resources.resources
+C:\Users\Владимир\Desktop\CassaLimits\obj\Debug\CassaLimits.vbproj.GenerateResource.Cache
+C:\Users\Misha98\Dropbox\Общая папка\03 Limits\CassaLimits\bin\Debug\CassaLimits.exe.config
+C:\Users\Misha98\Dropbox\Общая папка\03 Limits\CassaLimits\obj\Debug\CassaLimits.exe
+C:\Users\Misha98\Dropbox\Общая папка\03 Limits\CassaLimits\obj\Debug\CassaLimits.xml
+C:\Users\Misha98\Dropbox\Общая папка\03 Limits\CassaLimits\obj\Debug\CassaLimits.pdb
+C:\Users\Misha98\Dropbox\Общая папка\03 Limits\CassaLimits\bin\Debug\CassaLimits.exe
+C:\Users\Misha98\Dropbox\Общая папка\03 Limits\CassaLimits\bin\Debug\CassaLimits.pdb
+C:\Users\Misha98\Dropbox\Общая папка\03 Limits\CassaLimits\bin\Debug\CassaLimits.xml
+C:\Users\Misha98\Dropbox\Общая папка\03 Limits\CassaLimits\obj\Debug\CassaLimits.vbprojResolveAssemblyReference.cache
+C:\Users\Misha98\Dropbox\Общая папка\03 Limits\CassaLimits\obj\Debug\CassaLimits.CassaLimit.resources
+C:\Users\Misha98\Dropbox\Общая папка\03 Limits\CassaLimits\obj\Debug\CassaLimits.Resources.resources
+C:\Users\Misha98\Dropbox\Общая папка\03 Limits\CassaLimits\obj\Debug\CassaLimits.vbproj.GenerateResource.Cache
+C:\Users\Misha98\Documents\Visual Studio 2015\Projects\CassaLimits\bin\Debug\CassaLimits.exe.config
+C:\Users\Misha98\Documents\Visual Studio 2015\Projects\CassaLimits\obj\Debug\CassaLimits.exe
+C:\Users\Misha98\Documents\Visual Studio 2015\Projects\CassaLimits\obj\Debug\CassaLimits.xml
+C:\Users\Misha98\Documents\Visual Studio 2015\Projects\CassaLimits\obj\Debug\CassaLimits.pdb
+C:\Users\Misha98\Documents\Visual Studio 2015\Projects\CassaLimits\bin\Debug\CassaLimits.exe
+C:\Users\Misha98\Documents\Visual Studio 2015\Projects\CassaLimits\bin\Debug\CassaLimits.pdb
+C:\Users\Misha98\Documents\Visual Studio 2015\Projects\CassaLimits\bin\Debug\CassaLimits.xml
+C:\Users\Misha98\Documents\Visual Studio 2015\Projects\CassaLimits\obj\Debug\CassaLimits.vbprojResolveAssemblyReference.cache
+C:\Users\Misha98\Documents\Visual Studio 2015\Projects\CassaLimits\obj\Debug\CassaLimits.CassaLimit.resources
+C:\Users\Misha98\Documents\Visual Studio 2015\Projects\CassaLimits\obj\Debug\CassaLimits.Resources.resources
+C:\Users\Misha98\Documents\Visual Studio 2015\Projects\CassaLimits\obj\Debug\CassaLimits.vbproj.GenerateResource.Cache
+C:\Users\Misha98\Documents\Visual Studio 2015\Projects\CassaLimits\obj\Debug\CassaLimits.FormExplain.resources
